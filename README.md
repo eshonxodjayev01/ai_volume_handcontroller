@@ -9,3 +9,4 @@ In this project i used basicly opencv library in python and cv2 also
 I can say We can create a lot of interseting projects with this library like this
 I create this project on my own
 
+![image](https://github.com/Eshonxodjayev/ai_volume_handcontroller/assets/93433600/5bfda659-94f0-43ea-9008-f40fd4d8ca5a)
