@@ -1,5 +1,6 @@
 # ai_volume_handcontroller
-#interesting_porjects
+
+
 #machine_learning
 
 In this you can see a project where you can control the sound with your fingers.
