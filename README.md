@@ -1,4 +1,7 @@
 # ai_volume_handcontroller
+#interesting_porjects
+#machine_learning
+
 In this you can see a project where you can control the sound with your fingers.
 You can freely use the code, modify it and make new changes. 
 We can call this project machine learning as part of artificial intelligence
